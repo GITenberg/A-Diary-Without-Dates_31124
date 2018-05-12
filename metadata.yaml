@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3229
     wikipedia: http://en.wikipedia.org/wiki/Enid_Bagnold
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31124#A-Diary-Without-Dates
 gutenberg_issued: '2010-01-30'
 gutenberg_type: Text
 identifiers:
